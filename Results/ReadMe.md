@@ -1,3 +1,3 @@
-These are all tab delimited csv and git lab doesn't recognise them as csv
+This Folder contains my figures which were inclueded in my final write up
 
-If you download them and open them in ubuntu it should work
+As well as csv files which I used to validate and compare different regression methods and disserent tests of association
