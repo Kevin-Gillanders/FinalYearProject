@@ -3,10 +3,10 @@
 My final year project was focused on using machine learning techniques on data, which I obtained from [reddit.com](www.reddit.com), to try and predict the virality of the content
 
 ## Content
-* The final results can be found [here](https://github.com/Kevin-Gillanders/FinalYearProject/blob/master/docs/documentation/Technical_manual.pdf)
-* Figures and validation [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/Results)
-* Notes kept during the project [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/docs/blog)
-* All code is [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/src)
+* The final results can be found : [here](https://github.com/Kevin-Gillanders/FinalYearProject/blob/master/docs/documentation/Technical_manual.pdf)
+* Figures and validation : [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/Results)
+* Notes kept during the project : [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/docs/blog)
+* All code is : [here](https://github.com/Kevin-Gillanders/FinalYearProject/tree/master/src)
 
 
 ## Abstract 
