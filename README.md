@@ -6,10 +6,13 @@ My final results can be found [here](https://github.com/Kevin-Gillanders/FinalYe
 
 ## Abstract 
 
+Reddit is a social news site where content can be submitted by users as posts. It can then be voted
+on by other users, up or down. More popular content gets a higher score and is made more visible
+on the site, with content divided into subreddits, sub-forums for specialised content (e.g. Games
+for video game related content, aww for pictures of cute animals). 
 
-Reddit is a social news site where content can be submitted by users as posts. It can then be voted on by other users, up or down. More popular content gets a higher score and is made more visible on the site, with content divided into subreddits, sub-forums for specialised content (e.g. Games for video game related content, aww for pictures of cute animals). 
-
-This project set out to use information on individual posts and their respective subreddits to predict the eventual popularity,
+This project set out to use
+information on individual posts and their respective subreddits to predict the eventual popularity,
 i.e. score, of the post. Overall, certain attributes, such as size of the subreddit the post occurs in,
 are relatively predictive of the score of the post and certain types of post, such as images, have
 higher scores in general. However, based on the attributes examined here, score determination
