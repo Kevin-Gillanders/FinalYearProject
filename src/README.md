@@ -1,3 +1,4 @@
+## Contents 
 This folder is partitioned broadly into three sections:
 * Scripts for scraping data from reddit
 * Scripts for cleaning the data
